@@ -22,8 +22,9 @@ margin-top:20px;
 html{
     scroll-behavior: smooth;
 }
-.logo img{
-    width:164px;
+.logo{
+    font-size:2rem;
+padding:15px 15px;
     
 }
 nav {
