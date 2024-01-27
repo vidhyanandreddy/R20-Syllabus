@@ -10,3 +10,7 @@ $(window).on('load',function(){
     $(".loader").fadeOut(2000);
     $("main,footer").fadeIn(4000);
 });
+function dark(){
+const body = document.body;
+body.classList.toggle("dark-mode");
+}
