@@ -7,6 +7,6 @@ function hideSidebar() {
     sidebar.style.display = 'none'
 }
 $(window).on('load',function(){
-    $(".loader").fadeOut(5000);
-    $("main,footer").fadeIn(9000);
+    $(".loader").fadeOut(2000);
+    $("main,footer").fadeIn(5000);
 });
