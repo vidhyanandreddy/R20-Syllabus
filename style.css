@@ -12,12 +12,12 @@ color:white;
 background-color:#252525;
 }
 marquee,footer{
-background-color:#333;
+background-color:#252525;
 color:white;
 }
 }
 .mode{
-margin-top:17px;
+margin-top:20px;
 }
 html{
     scroll-behavior: smooth;
