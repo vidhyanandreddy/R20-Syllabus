@@ -7,7 +7,10 @@
 }
 body.dark-mode{
 background-color:#333;
-color:gold;
+color:white;
+.item{
+background-color:#333;
+}
 }
 .mode{
 margin-top:15px;
