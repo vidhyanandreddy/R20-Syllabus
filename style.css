@@ -11,7 +11,7 @@ color:white;
 .item{
 background-color:#252525;
 }
-marquee,footer,nav{
+marquee,footer,nav,.scrollbar{
 background-color:#252525;
 color:white;
 }
