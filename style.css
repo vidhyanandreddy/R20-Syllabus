@@ -12,20 +12,21 @@ color:white;
 background-color:#252525;
 }
 marquee,footer,nav,.scrollbar,
-.sidebar,.sidebar li{
+.sidebar,.sidebar a{
 background-color:#252525;
 color:white;
 }
 }
 .mode{
-margin-top:22px;
+margin-top:23px;
 }
 html{
     scroll-behavior: smooth;
 }
-.logo{
-    font-size:2rem;
-padding:15px;
+h1{
+    font-weight:700;
+margin-top:10px;
+margin-left:20px;
     
 }
 nav {
