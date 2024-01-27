@@ -11,7 +11,7 @@ color:white;
 .item{
 background-color:#252525;
 }
-marquee,footer{
+marquee,footer,nav{
 background-color:#252525;
 color:white;
 }
@@ -27,8 +27,7 @@ html{
     
 }
 nav {
-    background-color: white;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+    background-color: white;
 }
 
 nav ul {
