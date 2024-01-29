@@ -373,6 +373,19 @@ button:active {
     }
 
 }
+.anima{
+    opacity: 0;
+    transform: translateX(30px);
+    animation: side 0.5s linear forwards;
+}
+
+@keyframes side {
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+
+}
 
 main,
 footer {
