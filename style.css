@@ -375,7 +375,7 @@ button:active {
 }
 .anima{
     opacity: 0;
-    transform: translateX(30px);
+    transform: translateX(-100px);
     animation: side 0.5s linear forwards;
 }
 
